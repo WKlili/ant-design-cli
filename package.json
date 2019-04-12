@@ -1,0 +1,24 @@
+{
+  "name": "ant-vue-cli",
+  "version": "1.0.1",
+  "description": "ant-design-vue-tem",
+  "main": "ant-cli.js",
+  "private": false,
+  "keywords": ["vue", "cli", "ant-design-vue", "template"],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "git-clone": "^0.1.0",
+    "qoa": "^0.2.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ant-cli": "ant-cli.js"
+  },
+  "author": "nemo",
+  "license": "ISC"
+}
